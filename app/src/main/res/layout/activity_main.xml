@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#03a9f4"
+    android:background="#2196f3"
     tools:context="com.example.android.independenceofcroatia.MainActivity">
 
     <!--Title -->
@@ -85,11 +85,6 @@
         android:text="@string/croatia_dates"
         android:textAppearance="?android:textAppearanceSmall"
         android:textStyle="bold|italic" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/croatia_dates" />
 
 
 </RelativeLayout>
