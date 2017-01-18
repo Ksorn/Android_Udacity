@@ -96,7 +96,7 @@
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
         android:paddingTop="8dp"
-        android:text="@string/croatia_dates"
+        android:text="@string/bok_text_view"
         android:textAppearance="?android:textAppearanceSmall"
         android:textStyle="bold|italic" />
 
