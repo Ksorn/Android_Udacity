@@ -1,2 +1,2 @@
 # Android_Udacity
-Android lessons from Udacity
+Android lesson #1 from Udacity
